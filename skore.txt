@@ -1,0 +1,7 @@
+Meno: abcdfeckdl  |  Skore: 0   |  Datum: 2019-05-10 10:32
+Meno: ABC         |  Skore: 31  |  Datum: 2019-05-10 10:32
+Meno: ddd         |  Skore: 3   |  Datum: 2019-05-10 10:33
+Meno: Stano       |  Skore: 10  |  Datum: 2019-05-10 10:34
+Meno: Stano      | Skore: 8  | Datum: 2019-05-10 10:36
+Meno: Stano      | Skore: 10 | Datum: 2019-05-10 10:37
+Meno: Stano      | Skore: 2  | Datum: 2019-05-10 11:21
